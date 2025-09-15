@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychillin2607)](https://github.com/jaychillin2607/github-readme-stats)
 <!--
 **jaychillin2607/jaychillin2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
